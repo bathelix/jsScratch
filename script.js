@@ -18,8 +18,19 @@
 
 // *******************************
 
-var jackFriends = ['Josh','Chris','Dustin'];
+// var jackFriends = ['Josh','Chris','Dustin'];
 
-for (var i = 0; i<jackFriends.length; i++) {
-    alert (jackFriends[i]);
+// for (var i = 0; i<jackFriends.length; i++) {
+//     alert (jackFriends[i]);
+// }
+
+
+// *******************************
+
+var jack = ['Josh','Chris','Dustin'];
+var i = 0
+
+while (i < jack.length) {
+    console.log(jack[i]);
+    i++;
 }
