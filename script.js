@@ -116,7 +116,24 @@
 //   isBlue =!isBlue;
 // }, 1000);
 
+//****************************** */
 
+// let set = 0;
 
+// let nums = [10,20,30,40,50];
 
+// for (i = 0; i < nums.length; i++) {
+  
+//   console.log(set += nums[i]);
+// }
+// console.log(set);
 
+let count = 30;
+
+while (count <20 ) {
+  console.log(count++);
+}
+
+if (count > 20) {
+  alert ("you made it");
+}
