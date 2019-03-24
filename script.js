@@ -96,15 +96,25 @@
 
 //   squared(3);
 
+//************************************ */
 
+// var h1 = document.querySelector('h1');
 
-var h1 = document.querySelector('h1');
+// h1.style.color = "pink";
 
-h1.style.color = "pink";
+//*************************************** */
 
+// var body = document.querySelector('body');
+// var isBlue = false;
 
-
-
+// setInterval(function() {
+//   if (isBlue) {
+//     body.style.background = "green";
+//   } else {
+//     body.style.background = "purple";
+//   }
+//   isBlue =!isBlue;
+// }, 1000);
 
 
 
