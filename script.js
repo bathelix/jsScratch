@@ -90,15 +90,17 @@
 
 //*********************** */
 
-function squared(num) {
-    console.log( num * num);
-  }
+// function squared(num) {
+//     console.log( num * num);
+//   }
 
-  squared(3);
-
-
+//   squared(3);
 
 
+
+var h1 = document.querySelector('h1');
+
+h1.style.color = "pink";
 
 
 
