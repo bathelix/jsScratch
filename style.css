@@ -1,5 +1,5 @@
 .container {
-    border: black 2px solid;
+    
     display: flex;
     flex-direction: column;
     height: 500px;
@@ -7,20 +7,20 @@
 }
 
 .one {
-    background: blue;
-    border: red 2px solid;
+    background: lightblue;
+    border: black 2px solid;
     flex: 1;
 }
 
 .two {
-    background: yellow;
-    border: red 2px solid;
+    background: lightgoldenrodyellow;
+    border: black 2px solid;
     flex: 1;
 }
 
 .three {
-    background: green;
-    border: red 2px solid;
+    background: lightslategray;
+    border: black 2px solid;
     flex: 1;
 }
 

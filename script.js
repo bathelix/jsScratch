@@ -128,12 +128,38 @@
 // }
 // console.log(set);
 
-let count = 30;
+//*********************************
 
-while (count <20 ) {
-  console.log(count++);
-}
+// let count = 30;
 
-if (count > 20) {
-  alert ("you made it");
-}
+// while (count <20 ) {
+//   console.log(count++);
+// }
+
+// if (count > 20) {
+//   console.log(count += 100)
+//   alert ("you made it");
+// }
+
+//************************************* */
+
+// var change = document.querySelector('.two');
+
+
+// change.style.background = "red";
+
+// ************************************** setTimeout
+
+// function flash() {
+//   var change = document.querySelector('.two');
+  
+//   setTimeout(function(){
+//       change.style.background = "blue";
+//   }, 2000)
+// }
+
+// flash();
+
+
+
+
