@@ -161,5 +161,12 @@
 // flash();
 
 
+// var change = document.querySelector('h1');
 
+// change.textContent = "Jack Rulz!"
 
+//***************************************************** */
+
+var logo = document.querySelector('a');
+
+logo.setAttribute('src',"https://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/mammals/d/domestic-dog_thumb.jpg");
