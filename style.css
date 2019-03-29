@@ -1,8 +1,11 @@
+
+
 .container {
     
     display: flex;
     flex-direction: column;
     height: 500px;
+    
     
 }
 
@@ -32,4 +35,12 @@ button {
 
 .a {
     margin-bottom: 25px;
+}
+
+#new {
+    font-size: 2em;
+}
+
+.col {
+ 
 }

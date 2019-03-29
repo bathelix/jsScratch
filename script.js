@@ -167,6 +167,59 @@
 
 //***************************************************** */
 
-var logo = document.querySelector('a');
+// var logo = document.querySelector('a');
 
-logo.setAttribute('src',"https://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/mammals/d/domestic-dog_thumb.jpg");
+// logo.setAttribute('src',"https://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/mammals/d/domestic-dog_thumb.jpg");
+
+
+//******************************************************** */
+
+// var newtext = document.querySelector('#new');
+// var title = document.querySelector('h1');
+
+
+// newtext.addEventListener('click', function() {
+//   title.textContent = "Nicole Rox!";
+// });
+
+//*********************************************************** */
+
+// var newtext = document.querySelector('#new');
+// var title = document.querySelector('h1');
+
+
+// newtext.addEventListener('click', function() {
+//   title.style.background = "purple";
+// });
+
+
+//*********************************************************** */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
